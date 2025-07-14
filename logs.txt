@@ -1,0 +1,238 @@
+[2025-07-14T04:57:06.701Z] Request: POST /shorturls from ::1
+[2025-07-14T04:57:06.704Z] Short URL created: 40owhi -> https://somana.in, expires at 2025-07-14T05:27:06.704Z
+[2025-07-14T04:57:06.705Z] Response: 201 for POST /shorturls
+[2025-07-14T04:57:09.763Z] Request: GET /40owhi from ::1
+[2025-07-14T04:57:09.773Z] Redirecting shortcode 40owhi to https://somana.in (click from unknown, referrer: direct)
+[2025-07-14T04:57:09.776Z] Response: 302 for GET /40owhi
+[2025-07-14T04:57:36.168Z] Request: POST /shorturls from ::1
+[2025-07-14T04:57:36.168Z] Short URL created: 2ioNo6 -> https://somana.com, expires at 2025-07-14T04:58:36.168Z
+[2025-07-14T04:57:36.169Z] Response: 201 for POST /shorturls
+[2025-07-14T04:57:45.554Z] Request: GET /2ioNo6 from ::1
+[2025-07-14T04:57:45.555Z] Redirecting shortcode 2ioNo6 to https://somana.com (click from unknown, referrer: direct)
+[2025-07-14T04:57:45.556Z] Response: 302 for GET /2ioNo6
+[2025-07-14T04:59:48.437Z] Request: POST /shorturls from ::1
+[2025-07-14T04:59:48.438Z] Short URL created: Jyvw3f -> https://somana.com, expires at 2025-07-14T05:01:48.438Z
+[2025-07-14T04:59:48.439Z] Response: 201 for POST /shorturls
+[2025-07-14T04:59:50.046Z] Request: GET /Jyvw3f from ::1
+[2025-07-14T04:59:50.056Z] Redirecting shortcode Jyvw3f to https://somana.com (click from unknown, referrer: direct)
+[2025-07-14T04:59:50.058Z] Response: 302 for GET /Jyvw3f
+[2025-07-14T05:08:53.380Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:08:53.459Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:08:53.460Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:08:53.536Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:09:00.373Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:09:00.443Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:16:49.844Z] Request: POST /shorturls from ::1
+[2025-07-14T05:16:49.978Z] Short URL created: so6gh -> https://somana.in, expires at 2025-07-14T05:20:49.907Z
+[2025-07-14T05:16:49.979Z] Response: 201 for POST /shorturls
+[2025-07-14T05:16:57.159Z] Request: GET /so6gh from ::1
+[2025-07-14T05:16:57.367Z] Redirecting shortcode so6gh to https://somana.in (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T05:16:57.371Z] Response: 302 for GET /so6gh
+[2025-07-14T05:17:22.276Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:22.278Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:22.291Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:22.293Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:22.294Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:22.331Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:22.389Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:22.462Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:23.184Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:23.185Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:32.637Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:32.639Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:32.641Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:32.642Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:32.644Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:32.771Z] Response: 500 for POST /shorturls
+[2025-07-14T05:17:32.774Z] Response: 500 for POST /shorturls
+[2025-07-14T05:17:32.794Z] Short URL created: so6gr -> https://somana.in, expires at 2025-07-14T05:21:32.689Z
+[2025-07-14T05:17:32.795Z] Response: 201 for POST /shorturls
+[2025-07-14T05:17:33.157Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:33.335Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:33.688Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:33.691Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:33.692Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:33.693Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:33.693Z] Request: POST /shorturls from ::1
+[2025-07-14T05:17:33.771Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:33.772Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:33.773Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:33.773Z] Response: 409 for POST /shorturls
+[2025-07-14T05:17:33.774Z] Response: 409 for POST /shorturls
+[2025-07-14T05:20:58.445Z] Request: POST /shorturls from ::1
+[2025-07-14T05:20:58.449Z] Request: POST /shorturls from ::1
+[2025-07-14T05:20:58.541Z] Short URL created: ferewrw -> https://soma, expires at 2025-07-14T05:24:58.490Z
+[2025-07-14T05:20:58.541Z] Response: 201 for POST /shorturls
+[2025-07-14T05:20:58.549Z] Response: 500 for POST /shorturls
+[2025-07-14T05:21:02.453Z] Request: POST /shorturls from ::1
+[2025-07-14T05:21:02.455Z] Request: POST /shorturls from ::1
+[2025-07-14T05:21:02.513Z] Response: 409 for POST /shorturls
+[2025-07-14T05:21:02.514Z] Response: 409 for POST /shorturls
+[2025-07-14T05:24:54.679Z] Request: POST /shorturls from ::1
+[2025-07-14T05:24:54.682Z] Request: POST /shorturls from ::1
+[2025-07-14T05:24:54.853Z] Short URL created: akkuu -> https://somana.com, expires at 2025-07-14T05:48:54.741Z
+[2025-07-14T05:24:54.854Z] Response: 201 for POST /shorturls
+[2025-07-14T05:24:54.857Z] Short URL created: edb87 -> https://somana.in, expires at 2025-07-14T05:27:54.743Z
+[2025-07-14T05:24:54.857Z] Response: 201 for POST /shorturls
+[2025-07-14T05:24:58.645Z] Request: GET /akkuu from ::1
+[2025-07-14T05:24:58.754Z] Redirecting shortcode akkuu to https://somana.com (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T05:24:58.755Z] Response: 302 for GET /akkuu
+[2025-07-14T05:25:02.017Z] Request: GET /edb87 from ::1
+[2025-07-14T05:25:02.103Z] Redirecting shortcode edb87 to https://somana.in (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T05:25:02.104Z] Response: 302 for GET /edb87
+[2025-07-14T05:25:15.692Z] Request: GET /akkuu from ::1
+[2025-07-14T05:25:16.011Z] Redirecting shortcode akkuu to https://somana.com (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T05:25:16.012Z] Response: 302 for GET /akkuu
+[2025-07-14T05:25:21.462Z] Request: POST /shorturls from ::1
+[2025-07-14T05:25:21.506Z] Response: 409 for POST /shorturls
+[2025-07-14T05:25:22.711Z] Request: POST /shorturls from ::1
+[2025-07-14T05:25:22.783Z] Response: 409 for POST /shorturls
+[2025-07-14T05:25:24.913Z] Request: POST /shorturls from ::1
+[2025-07-14T05:25:25.029Z] Short URL created: akkuu2 -> https://somana.in, expires at 2025-07-14T05:49:24.958Z
+[2025-07-14T05:25:25.030Z] Response: 201 for POST /shorturls
+[2025-07-14T05:25:26.682Z] Request: GET /akkuu2 from ::1
+[2025-07-14T05:25:26.770Z] Redirecting shortcode akkuu2 to https://somana.in (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T05:25:26.770Z] Response: 302 for GET /akkuu2
+[2025-07-14T05:25:32.050Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:25:32.115Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:25:33.781Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:25:33.827Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:25:37.827Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:25:37.831Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:25:37.871Z] Response: 200 for GET /shorturls/akkuu
+[2025-07-14T05:25:37.872Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:25:37.896Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:25:37.917Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:25:52.799Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:25:52.801Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:25:52.850Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:25:52.851Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:26:04.765Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:26:04.767Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:26:04.811Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:26:04.812Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:26:43.978Z] Request: POST /shorturls from ::1
+[2025-07-14T05:26:44.062Z] Short URL created: dwewfe -> https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0, expires at 2025-07-14T05:28:44.019Z
+[2025-07-14T05:26:44.063Z] Response: 201 for POST /shorturls
+[2025-07-14T05:26:45.753Z] Request: GET /dwewfe from ::1
+[2025-07-14T05:26:45.835Z] Redirecting shortcode dwewfe to https://docs.google.com/document/d/15knNG2TakoAyQEt7P-hU683mCe8Eg50hZOuGvjglHa8/edit?tab=t.0 (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T05:26:45.835Z] Response: 302 for GET /dwewfe
+[2025-07-14T05:26:54.619Z] Request: GET /akkuu from ::1
+[2025-07-14T05:26:54.699Z] Redirecting shortcode akkuu to https://somana.com (click from unknown, referrer: direct)
+[2025-07-14T05:26:54.700Z] Response: 302 for GET /akkuu
+[2025-07-14T05:26:57.516Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:26:57.518Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:26:57.556Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:26:57.557Z] Response: 200 for GET /shorturls/akkuu
+[2025-07-14T05:27:11.873Z] Request: GET /akkuu from ::1
+[2025-07-14T05:27:12.017Z] Redirecting shortcode akkuu to https://somana.com (click from unknown, referrer: direct)
+[2025-07-14T05:27:12.018Z] Response: 302 for GET /akkuu
+[2025-07-14T05:27:14.639Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:14.641Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:14.691Z] Response: 200 for GET /shorturls/akkuu
+[2025-07-14T05:27:14.692Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:16.012Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:16.013Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:16.056Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:16.057Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:16.696Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:16.697Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:16.744Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:16.745Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:16.970Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:16.971Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:17.018Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:17.019Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:20.089Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:20.091Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:20.130Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:20.131Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:20.984Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:20.985Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:21.032Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:21.032Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:21.629Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:21.630Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:21.671Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:21.672Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:22.008Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:22.009Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:22.048Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:22.049Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:22.247Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:22.248Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:22.285Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:22.286Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:40.746Z] Request: GET /shorturls/akkuu2 from ::1
+[2025-07-14T05:27:40.758Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:40.760Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:40.786Z] Response: 200 for GET /shorturls/akkuu2
+[2025-07-14T05:27:40.787Z] Request: GET /shorturls/akkuu2 from ::1
+[2025-07-14T05:27:40.796Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:40.806Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:40.825Z] Response: 304 for GET /shorturls/akkuu2
+[2025-07-14T05:27:46.046Z] Request: GET /shorturls/akkuuu from ::1
+[2025-07-14T05:27:46.064Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:27:46.065Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:27:46.066Z] Request: GET /shorturls/akkuu2 from ::1
+[2025-07-14T05:27:46.091Z] Response: 404 for GET /shorturls/akkuuu
+[2025-07-14T05:27:46.091Z] Request: GET /shorturls/akkuuu from ::1
+[2025-07-14T05:27:46.105Z] Response: 304 for GET /shorturls/akkuu2
+[2025-07-14T05:27:46.105Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:27:46.106Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:27:46.140Z] Response: 404 for GET /shorturls/akkuuu
+[2025-07-14T05:28:06.662Z] Request: POST /shorturls from ::1
+[2025-07-14T05:28:06.767Z] Short URL created: akarsh -> https://chronotree.vercel.app/, expires at 2025-07-14T06:13:06.717Z
+[2025-07-14T05:28:06.768Z] Response: 201 for POST /shorturls
+[2025-07-14T05:28:07.848Z] Request: GET /akarsh from ::1
+[2025-07-14T05:28:07.972Z] Redirecting shortcode akarsh to https://chronotree.vercel.app/ (click from unknown, referrer: http://localhost:5173/)
+[2025-07-14T05:28:07.973Z] Response: 302 for GET /akarsh
+[2025-07-14T05:28:12.118Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:28:12.120Z] Request: GET /shorturls/akkuuu from ::1
+[2025-07-14T05:28:12.121Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:28:12.122Z] Request: GET /shorturls/akkuu2 from ::1
+[2025-07-14T05:28:12.167Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:28:12.168Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:28:12.168Z] Response: 404 for GET /shorturls/akkuuu
+[2025-07-14T05:28:12.169Z] Response: 304 for GET /shorturls/akkuu2
+[2025-07-14T05:28:19.295Z] Request: GET /shorturls/akarsh from ::1
+[2025-07-14T05:28:19.314Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:28:19.316Z] Request: GET /shorturls/akkuuu from ::1
+[2025-07-14T05:28:19.316Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:28:19.317Z] Request: GET /shorturls/akkuu2 from ::1
+[2025-07-14T05:28:19.359Z] Response: 200 for GET /shorturls/akarsh
+[2025-07-14T05:28:19.360Z] Response: 404 for GET /shorturls/akkuuu
+[2025-07-14T05:28:19.360Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:28:19.359Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:28:19.361Z] Response: 304 for GET /shorturls/akkuu2
+[2025-07-14T05:28:19.361Z] Request: GET /shorturls/akarsh from ::1
+[2025-07-14T05:28:19.421Z] Response: 304 for GET /shorturls/akarsh
+[2025-07-14T05:28:37.618Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:28:37.620Z] Request: GET /shorturls/akkuuu from ::1
+[2025-07-14T05:28:37.622Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:28:37.622Z] Request: GET /shorturls/akkuu2 from ::1
+[2025-07-14T05:28:37.623Z] Request: GET /shorturls/akarsh from ::1
+[2025-07-14T05:28:37.662Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:28:37.665Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:28:37.666Z] Response: 404 for GET /shorturls/akkuuu
+[2025-07-14T05:28:37.666Z] Response: 304 for GET /shorturls/akarsh
+[2025-07-14T05:28:37.667Z] Response: 304 for GET /shorturls/akkuu2
+[2025-07-14T05:33:59.015Z] Request: POST /shorturls from ::1
+[2025-07-14T05:33:59.023Z] Request: POST /shorturls from ::1
+[2025-07-14T05:33:59.024Z] Request: POST /shorturls from ::1
+[2025-07-14T05:33:59.137Z] Short URL created: waffer -> https://somana.in, expires at 2025-07-14T05:56:59.059Z
+[2025-07-14T05:33:59.140Z] Response: 201 for POST /shorturls
+[2025-07-14T05:33:59.441Z] Short URL created: potato -> https://somana.com, expires at 2025-07-14T05:55:59.393Z
+[2025-07-14T05:33:59.442Z] Response: 201 for POST /shorturls
+[2025-07-14T05:33:59.443Z] Short URL created: india -> https://india.in, expires at 2025-07-14T05:36:59.397Z
+[2025-07-14T05:33:59.443Z] Response: 201 for POST /shorturls
+[2025-07-14T05:34:19.697Z] Request: GET /shorturls/ghbjk from ::1
+[2025-07-14T05:34:19.700Z] Request: GET /shorturls/akkuuu from ::1
+[2025-07-14T05:34:19.701Z] Request: GET /shorturls/akarsh from ::1
+[2025-07-14T05:34:19.703Z] Request: GET /shorturls/akkuu from ::1
+[2025-07-14T05:34:19.704Z] Request: GET /shorturls/akkuu2 from ::1
+[2025-07-14T05:34:19.747Z] Response: 304 for GET /shorturls/akarsh
+[2025-07-14T05:34:19.744Z] Response: 404 for GET /shorturls/akkuuu
+[2025-07-14T05:34:19.747Z] Response: 404 for GET /shorturls/ghbjk
+[2025-07-14T05:34:20.090Z] Response: 304 for GET /shorturls/akkuu
+[2025-07-14T05:34:20.092Z] Response: 304 for GET /shorturls/akkuu2

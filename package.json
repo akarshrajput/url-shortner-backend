@@ -1,0 +1,23 @@
+{
+  "name": "url-short-backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "geoip-lite": "^1.4.10",
+    "mongoose": "^8.16.3",
+    "nanoid": "^5.1.5",
+    "valid-url": "^1.0.9"
+  }
+}
